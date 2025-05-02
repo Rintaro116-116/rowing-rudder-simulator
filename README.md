@@ -1,4 +1,4 @@
-# rowing-rudder-simulator
+# Rowing-Rudder-simulator-Project
 A simulator project for rowing coxswains to practice rudder control.
 
 Rowing Rudder Simulator
